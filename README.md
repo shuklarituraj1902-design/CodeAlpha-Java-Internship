@@ -1,8 +1,6 @@
 # CodeAlpha-Java-Internship
 java internship projects
 
-# CodeAlpha Java Internship
-
 Welcome to my Java Internship Projects Repository.
 This repository contains Java projects completed as part of my internship tasks.
 
